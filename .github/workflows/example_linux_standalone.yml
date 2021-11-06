@@ -17,6 +17,7 @@ jobs:
       
     - name: Build Example - Linux Standalone
       run: |
-            ls
+            cd examples/linux
+            make
             
       
