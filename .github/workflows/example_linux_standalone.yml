@@ -15,5 +15,5 @@ jobs:
     - uses: actions/checkout@v2
       
     - name: Build Example - Linux Standalone
-      run: examples/linux/make check
+      run: make -C examples/Linux
       
