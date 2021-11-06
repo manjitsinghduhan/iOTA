@@ -1,4 +1,4 @@
-![Examples - Linux Standalone](https://github.com/manjitsinghduhan/iOTA/workflows/example_linux_standalone.yml/badge.svg)
+![Examples - Linux Standalone](https://github.com/manjitsinghduhan/iOTA/actions/workflows/example_linux_standalone.yml/badge.svg)
 
 
 # iOTA
