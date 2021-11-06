@@ -1,5 +1,4 @@
-![example workflow](https://github.com/manjitsinghduhan/iOTA/actions/workflows/c-cpp.yml/badge.svg)
-![Examples - Linux Standalone](https://github.com/manjitsinghduhan/iOTA/workflows/Build%20Example%20-%20Linux%20Standalone/badge.svg)
+![Examples - Linux Standalone](https://github.com/manjitsinghduhan/iOTA/workflows/example_linux_standalone.yml/badge.svg)
 
 
 # iOTA
