@@ -1,0 +1,19 @@
+name: Example - Linux Standalone
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: Build Example - Linux Standalone
+      run: examples/linux/make check
+      
