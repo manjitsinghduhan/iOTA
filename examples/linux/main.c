@@ -23,7 +23,7 @@ static void *thread_ota(void *arg)
 
   while(x)
   {
-    printf("This is main while loop of the thread\n");
+    printf("Ota thread running count %d\n", i);
 
     sleep(1);
     x--;
